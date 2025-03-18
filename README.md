@@ -25,7 +25,7 @@
 - 📊 **Data Governance and Quality Management (Compliance Dashboard)**: Designing a compliance dashboard to ensure data quality and regulatory adherence in enterprise environments.
 
 ## 📫 Connect with Me
-- 🌐 [LinkedIn](linkedin.com/in/uyen-huynh-19674029a)
+- 🌐 [LinkedIn](https://github.com/uyen-huynh2808/uyen-huynh2808/blob/main/linkedin.com/in/uyen-huynh-19674029a)
 - 📧 Email: uyenhuynh288.work@gmail.com
 
 🌟 _Let's build something amazing together!_ 🚀
