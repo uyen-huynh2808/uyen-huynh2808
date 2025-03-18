@@ -26,8 +26,6 @@
 
 ## 📫 Connect with Me
 - 🌐 [LinkedIn](linkedin.com/in/uyen-huynh-19674029a )
-- 📧 Email: uyenhuynh288.work@gmail.com 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+- 📧 Email: uyenhuynh288.work@gmail.com
 
 🌟 _Let's build something amazing together!_ 🚀
