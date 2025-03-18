@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**uyen-huynh2808/uyen-huynh2808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 **3rd-year Data Science student at the University of Science**
+- 💻 **Aspiring Data Engineer** with a focus on Big Data and Analytics Engineering
+- 📜 **IBM Data Engineering Certified**
+- 🔥 Currently working with **Apache Spark**, **Apache Airflow**, and **MySQL**
 
-Here are some ideas to get you started:
+## 💡 Interests
+- 🔍 Data Engineering & Big Data Processing
+- ☁️ Cloud Computing (Google Cloud, AWS, Azure)
+- 📈 Data Science & Machine Learning
+- 🏋️‍♂️ Fitness & Weight Loss
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL, C
+- **Data Processing:** Apache Spark, Pandas, NumPy
+- **Databases:** MySQL, PostgreSQL
+- **Tools & Platforms:** Airflow, Git
+
+## 📌 Projects
+- 🏢 **Enterprise Data Warehouse for BI (E-Commerce Sales Analytics)**: Building a scalable data warehouse to enable business intelligence and data-driven decision-making in e-commerce.
+- 🔥 **Apache Spark for Big Data Processing (Fraud Detection in Finance)**: Leveraging Spark to process large-scale financial transactions and detect fraudulent patterns.
+- 🏥 **Healthcare Data Lake for Real-Time Analytics (IoT Patient Monitoring)**: Implementing a data lake to collect and analyze real-time patient monitoring data from IoT devices.
+- 📊 **Data Governance and Quality Management (Compliance Dashboard)**: Designing a compliance dashboard to ensure data quality and regulatory adherence in enterprise environments.
+
+## 📫 Connect with Me
+- 🌐 [LinkedIn](linkedin.com/in/uyen-huynh-19674029a )
+- 📧 Email: uyenhuynh288.work@gmail.com 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+🌟 _Let's build something amazing together!_ 🚀
