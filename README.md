@@ -13,7 +13,7 @@
 - 🏋️‍♂️ Fitness & Weight Loss
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, SQL, C
+- **Languages:** Python, SQL, C++
 - **Data Processing:** Apache Spark, Pandas, NumPy
 - **Databases:** MySQL, PostgreSQL
 - **Tools & Platforms:** Airflow, Hive, Delta Lake, Kafka, Git
