@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## 🚀 About Me
-- 🎓 **3rd-year Data Science student at the University of Science**
+- 🎓 **Data Science student at the University of Science**
 - 💻 **Aspiring Data Engineer** with a focus on Big Data and Analytics Engineering  
 - 📜 **IBM Data Engineering Certified**
 - 🔥 Currently working with **Apache Spark**, **Apache Airflow**, and **MySQL**
